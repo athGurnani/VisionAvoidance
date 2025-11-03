@@ -5,6 +5,7 @@
 * SLAM and OpenCV
 
 ## Goals:
+* Find a better name for this tool
 * First milestone: hesitation. Robot stops autonomous pathing until it's clear
 * End goal: Path regen fully, based on obstacle velocity
 * PedroPathing support or dependency
