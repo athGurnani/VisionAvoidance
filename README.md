@@ -1,8 +1,19 @@
-## Obstacle Avoidance using Pedro Pathing
+# Obstacle Avoidance using Pedro Pathing
 
-* OpenCV + Limelight 3a compatibility
-* Object Avoidance: Path regeneration or hesitation
-* Possible first milestone: hesitation. Robot stops autonomous pathing until it's clear
-* End goal: Path regen fully, based on obstacle velocity
-* Ask the strings dude how he did it
+## Research
+* Communicate with "Strings | 30003" on Discord
 * SLAM and OpenCV
+
+## Goals:
+* First milestone: hesitation. Robot stops autonomous pathing until it's clear
+* End goal: Path regen fully, based on obstacle velocity
+* PedroPathing support or dependency
+* Webcam + Limelight 3a support
+* RoadRunner or custom pathing support?
+
+## Algorithm:
+* 1
+* Greyscale
+* FAST
+* 4
+* 5
