@@ -6,7 +6,7 @@
 
 ## Goals:
 * Find a better name for this tool
-* First milestone: hesitation. Robot stops autonomous pathing until it's clear
+* First milestone: hesitation. Robot stops autonomous pathing until it's clear; uses only java for simplicity
 * End goal: Path regen fully, based on obstacle velocity
 * PedroPathing support or dependency
 * Webcam + Limelight 3a support
